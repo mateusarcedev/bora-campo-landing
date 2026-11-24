@@ -1,18 +1,26 @@
 # BoraCampo — Landing page
 
-Site institucional e comercial do BoraCampo, para apresentar a plataforma de gestão e reservas de arenas esportivas.
+Site institucional e comercial da plataforma de reservas e gestão de arenas. Pré-lançamento; funcionalidades e planos ainda não disponíveis comercialmente.
 
-## Arquitetura prevista
+## Desenvolvimento local
 
-- Next.js (App Router), TypeScript e Tailwind CSS.
-- Deploy independente na Vercel.
-- Aplicação: https://github.com/mateusarcedev/bora-campo
-- Comunicação com a aplicação pelo endereço configurado em `NEXT_PUBLIC_APP_URL`.
+Node.js 22, Next.js 16, TypeScript e Tailwind CSS 4.
 
-## Escopo inicial
+```bash
+npm install
+cp .env.example .env.local
+npm run dev
+npm run typecheck
+npm run build
+```
 
-Apresentação institucional, benefícios, planos, chamadas para ação e navegação para a aplicação. O protótipo do Claude Design orienta a implementação; seu runtime não será usado em produção.
+Configure `NEXT_PUBLIC_APP_URL` com a URL do sistema. Não há acesso direto ao Supabase nesta aplicação. O lockfile deve ser gerado e versionado assim que as dependências forem instaladas em um ambiente com acesso ao registry.
 
-## Desenvolvimento
+## Projetos
 
-Repositório em fase de inicialização. A implementação da aplicação, dependências e testes ainda está pendente. A landing não precisa de acesso direto ao Supabase nesta etapa.
+- Sistema: https://github.com/mateusarcedev/bora-campo
+- Vercel: https://vercel.com/devmateusarce/bora-campo-landing
+
+## Estado atual
+
+Shell responsivo, apresentação de funcionalidades, etapas e planos em preparação. A identidade visual segue os tokens do protótipo. Ver `design/README.md`. Importação do HTML original e reprodução de alta fidelidade, revisão visual, testes automatizados e validação comercial pendentes. A indexação por buscadores está desabilitada durante o pré-lançamento.
