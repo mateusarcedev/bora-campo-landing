@@ -24,3 +24,6 @@ Configure `NEXT_PUBLIC_APP_URL` com a URL do sistema. Não há acesso direto ao 
 ## Estado atual
 
 Shell responsivo, apresentação de funcionalidades, etapas e planos em preparação. A identidade visual segue os tokens do protótipo. Ver `design/README.md`. Importação do HTML original e reprodução de alta fidelidade, revisão visual, testes automatizados e validação comercial pendentes. A indexação por buscadores está desabilitada durante o pré-lançamento.
+
+## Oferta de lançamento
+30 dias de teste gratuito para novos proprietários de arenas. Essencial R$ 79/mês e Pro R$ 129/mês após o teste (valores provisórios). A ativação, contagem do prazo, expiração e cobrança fazem parte do módulo de assinaturas; ainda não estão em funcionamento.
