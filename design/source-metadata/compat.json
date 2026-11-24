@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "mode": "omelette",
+  "root": "project/",
+  "title": "Bora Campo",
+  "entry": "BoraCampo - Landing Page.dc.html",
+  "pages": [
+    {
+      "path": "BoraCampo - Landing Page.dc.html",
+      "title": "BoraCampo - Landing Page",
+      "kind": "page"
+    },
+    {
+      "path": "BoraCampo - Pagina da Arena.dc.html",
+      "title": "BoraCampo - Pagina da Arena",
+      "kind": "page"
+    },
+    {
+      "path": "BoraCampo - Marketplace.dc.html",
+      "title": "BoraCampo - Marketplace",
+      "kind": "page"
+    },
+    {
+      "path": "BoraCampo - Painel da Arena.dc.html",
+      "title": "BoraCampo - Painel da Arena",
+      "kind": "page"
+    }
+  ],
+  "migratorVersion": "artifact-migrator (claude-design-backend ed667f7ac9c1)",
+  "createdAt": "2026-11-05T14:51:13.794Z",
+  "source": {
+    "v": 1,
+    "app": "claude-design",
+    "url": "https://claude.ai/design/p/b3e75368-8cad-4b3a-b66f-85279e01a3c7",
+    "projectId": "b3e75368-8cad-4b3a-b66f-85279e01a3c7",
+    "exportedAt": "2026-11-05T14:51:13.794Z"
+  },
+  "report": {
+    "itemsVersion": 2,
+    "pages": {
+      "total": 4,
+      "ok": 4,
+      "partial": 0,
+      "notMigrated": 0
+    },
+    "items": [],
+    "truncated": 0,
+    "truncatedLeftOut": 0
+  }
+}
