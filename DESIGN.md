@@ -1,0 +1,3 @@
+# Bora Campo — design direction
+
+Canonical visual reference: Doop https://doop.design/c/GVr761oaFI . Existing Manrope typography and green #15803D, slate neutrals, semantic status colors. Consolidate spacing and radius through existing tokens rather than introducing new theme systems. Admin pages favor compact page headers, information hierarchy and readable tables. Marketplace and landing can use larger editorial typography and genuine imagery. Avoid generic AI aesthetics, decorative dashboard cards, gratuitous badges, gratuitous motion and duplicate action placement. Motion tokens: feedback 120ms, state 180ms, overlay 220ms, reduced-motion fallback. See docs/FRONTEND-STANDARD.md for adoption policy and acceptance criteria.
