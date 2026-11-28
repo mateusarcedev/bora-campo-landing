@@ -26,4 +26,4 @@ Configure `NEXT_PUBLIC_APP_URL` com a URL do sistema. Não há acesso direto ao 
 Shell responsivo, apresentação de funcionalidades, etapas e planos em preparação. A identidade visual segue os tokens do protótipo. Ver `design/README.md`. Importação do HTML original e reprodução de alta fidelidade, revisão visual, testes automatizados e validação comercial pendentes. A indexação por buscadores está desabilitada durante o pré-lançamento.
 
 ## Oferta de lançamento
-30 dias de teste gratuito para novos proprietários de arenas. Essencial R$ 79/mês e Pro R$ 129/mês após o teste (valores provisórios). A ativação, contagem do prazo, expiração e cobrança fazem parte do módulo de assinaturas; ainda não estão em funcionamento.
+Landing V2 baseada no [Doop](https://doop.design/c/GVr761oaFI?frame=MPFMvaIn3b). Preços previstos: Free R$ 0, Essencial R$ 59,90, Pro R$ 99,90 e Premium R$ 149,90 por mês. A oferta de 30 dias de teste e os módulos de ensino dependem da ativação do produto; nenhuma cobrança automática nesta etapa. Premium planejado. A demo e o marketplace continuam disponíveis nos endereços existentes.
